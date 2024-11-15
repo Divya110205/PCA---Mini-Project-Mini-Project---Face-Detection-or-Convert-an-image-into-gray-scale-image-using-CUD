@@ -98,6 +98,9 @@ axes[1].axis('off')
 plt.show()
 ```
 
+## OUTPUT:
+![Screenshot 2024-11-15 115905](https://github.com/user-attachments/assets/d50a481e-5057-4026-a54d-6e556f19f44c)
+
 ## RESULT:
 
 The conversion of an input image into a grayscale image using CUDA GPU programming for parallel processing ia implemented successfully.
